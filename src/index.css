@@ -1,0 +1,57 @@
+body {
+	margin: 100px 0;
+	font-family: 'Inconsolata', monospace;
+	font-size: 14px;
+	color: green;
+	background: #0d0d0d;
+}
+
+#app, div.input-area {
+	height: 100%;
+}
+
+div#main {
+  	max-width: 600px;
+  	background: black;
+  	border-radius: 5px;
+  	height: 600px;
+    -webkit-box-shadow: 0px 0px 13px 0px rgba(50, 50, 50, 0.59);
+    -moz-box-shadow:    0px 0px 13px 0px rgba(50, 50, 50, 0.59);
+  	box-shadow:         0px 0px 13px 0px rgba(50, 50, 50, 0.59);
+  	overflow: hidden;
+}
+
+.holder {
+  	overflow: auto;
+}
+
+.prompt {
+	color: green;
+}
+
+input[type=text], input[type=text]:focus {
+	border: none;
+	padding: 0; 
+	margin: 0;
+	height: 22px;
+	background: black;
+	color: green;
+	width: 80%;
+}
+
+p { 
+	margin-bottom: 0;
+	line-height: 21px;
+}
+
+#bar {
+	height: 30px;
+	max-width: 600px;
+	background: black;
+	border-radius: 5px;
+}
+
+#content {
+	padding: 20px;
+	height: 100%;
+}
