@@ -2,6 +2,10 @@
 
 The main look and feel of the Design is to make it look like an interactive terminal but will be able to make silly and fun features with the same
 
+Live Demo of [here](https://pratyum.xyz)
+
+![Website Screenshot](website_image.png)
+
 This project is Open Source, so please feel free to try do any modifications to the project.
 
 
@@ -23,12 +27,12 @@ This project is Open Source, so please feel free to try do any modifications to 
 
 ## Features required
 
-[ ] Create a stateless history of the commands
-[ ] Up-Arrow gives a preview of the prev command
-[ ] Tab button for autocomplete
-[ ] Add args to `ls`
-[ ] Create `man` pages for all the commands
-[ ] More commands like `tail` and `head` with the different args
+- [ ] Create a stateless history of the commands
+- [ ] Up-Arrow gives a preview of the prev command
+- [ ] Tab button for autocomplete
+- [ ] Add args to `ls`
+- [ ] Create `man` pages for all the commands
+- [ ] More commands like `tail` and `head` with the different args
 
 ## Steps for Contributing
 
